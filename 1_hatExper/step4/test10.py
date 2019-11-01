@@ -57,4 +57,4 @@ for field, jq_afId_name_set in jq_field_jqAfidName.items():
                 line = line.strip('\n').split('\t')
                 if (line[0], line[1]) in jq_afId_name_set:
                     fout.write('\t'.join(line)+'\n')
-
+# git test
