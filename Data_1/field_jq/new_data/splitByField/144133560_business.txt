@@ -1,9 +1,0 @@
-affID	sortedName	awardYear	fieldID	fieldName	minPaperYear	maxPaperYear
-158842170	zhang zongyi	2005	144133560	business	1993	2017
-162868743	chunfeng wang	2002	144133560	business	1993	2018
-183067930	saixing zeng	2010	144133560	business	2005	2016
-19820366	xiaoguang yang	2004	144133560	business	1997	2018
-20231570	changhui zhou	2011	144133560	business	2000	2010
-204983213	qiang ye	2012	144133560	business	2004	2017
-24943067	huang lihua	2010	144133560	business	2001	2015
-99065089	xiaobo zhao	2003	144133560	business	1997	2017
