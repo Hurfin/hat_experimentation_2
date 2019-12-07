@@ -1,0 +1,73 @@
+上海市中医药研究院	shanghai institute of traditional chinese medicine
+上海第二医科大学	shanghai jiao tong university school of medicine
+上海药物研究所	chinese academy of sciences shanghai institute of materia medica
+东北大学	northeastern university（neu）
+东华理工大学	east china university of technology
+中国中医科学院	china academy chinese medical sciences
+中国人民解放军信息工程大学	information engineering university
+中国人民解放军军事医学科学院	academy of military medical sciences
+中国人民解放军总医院	the general hospital of the people's liberation army (plagh)
+中国人民解放军空军雷达学院	air force early warning academy
+中国人民解放军第三０四医院	fourth medical center of pla general hospital
+中国人民解放军第二军医大学	the second military medical university
+中国人民解放军第四军医大学	the fourth military medical university
+中国农业科学院	chinese academy of agricultural sciences
+中国农业科学院农业经济与发展研究所	institute of agricultural economics and development, caas
+中国农业科学院哈尔滨兽医研究所	harbin veterinary research institute, chinese academy of agricultural sciences
+中国农业科学院棉花研究所	cotton research institute, caas
+中国农业科学院植物保护研究所	the institute of plant protection, chinese academy of agricultural sciences
+中国农业科学院生物技术研究所	biotechnology research  institute, caas
+中国农业科学院蔬菜花卉研究所	the institute of vegetables and flowers chinese academy of agricultural sciences
+中国医学科学院	chinese academy of medical sciences
+中国原子能科学研究院	china institute of atomic energy
+中国地质博物馆	the geological museum of china
+中国地质大学（北京）	china university of geosciences, beijing
+中国地质大学（武汉）	china university of geosciences, wuhan
+中国地质科学院地质研究所	the institute of geology, chinese academy of geological sciences
+中国地震局地球物理研究所	institute of geophysics, china earthquake administration
+中国地震局地质研究所	institute of geology, china earthquake administrator
+中国安全生产科学研究院	china academy of safety science and technology
+中国建筑材料科学研究院	china building materials academy
+中国林业科学研究院	chinese academy of forestry
+中国核动力研究设计院	npic
+中国气象科学研究院	chinese academy of meteorological sciences
+中国水利水电科学研究院	china institute of water resources and hydropower research
+中国水稻研究所	china national rice research institute
+中国环境科学研究院	chinese research academy of environmental sciences
+中国疾病预防控制中心职业卫生与中毒控制所	national institute of occupational health and poison control, chinese center for disease control and prevention
+中国石油大学（北京）	china university of petroleum,beijing
+中国矿业大学（北京）	china university of mining & technology-beijing
+中国空气动力研究与发展中心	china aerodynamics research and development center
+中山医科大学	sun yat-sen university (sysu)
+中山大学	sun yat-sen university (sysu)
+信息中心	information center
+兰州空间技术物理研究所	lanzhou institute of physics, cast
+北京医科大学	peking university health science center
+北京市农林科学院	beijing academy of agricultural and forestry sciences
+北京市肿瘤防治研究所	beijng cancer hospital, beijing institute for cancer research
+北京生命科学研究所	national institute of biological sciences, beijing
+北方研究中心	chgb
+华中农业大学	huazhong agricultural university 或 central china agricultural university
+南京化工大学	nanjing tech university
+南京工业大学	nanjing tech university
+南开大学	nankai university, nku
+吉林工业大学	jilin university of technology
+吉林工业大学	jilin university of technology
+国家人类基因组南方研究中心	chgc
+国家海洋局第三海洋研究所	third institute of oceanography, mnr
+国家海洋局第二海洋研究所	second institute of oceanography, mnr
+国家纳米科学中心	the national center for nanoscience and technology
+国家能源局南京水利科学研究院	nanjing hydraulic research institute
+境与土壤研究所	guangdong institute of eco-environmental science & technology
+大连大学	dalian university
+山西师范大学	shanxi normal university
+材料国家纳米科学中心	the national center for nanoscience and technology
+河南省农业科学院	henan academy of agricultural sciences
+浙江省农业科学院	zhejiang academy of agricultural sciences
+物理研究院总体工程研究所	china academy of engineering physics
+石家庄铁道学院	shijiazhuang tiedao university
+石油大学（北京）	china university of petroleum, beijing
+西北农林科技大学	northwest a&f university
+郑州航空工业管理学院	zhengzhou university of aeronautics
+长沙理工大学	changsha university of science technology
+首都师范大学	capital normal university（cnuef）

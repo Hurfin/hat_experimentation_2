@@ -1,0 +1,227 @@
+183067930	上海交通大学	shanghai jiao tong university
+113940042	上海大学	shanghai university
+21945476	上海师范大学	shanghai normal university
+184983240	东北师范大学	northeast normal university
+76569877	东南大学	southeast university
+135714990	中北大学	north university of china
+139660479	中南大学	central south university
+78988378	中国人民大学	renmin university of china
+170215575	中国人民解放军国防科学技术大学	national university of defense technology
+58200834	中国人民解放军第一军医大学	southern medical university
+177933477   中国人民解放军第二军医大学	second military medical university
+151075929	中国人民解放军第三军医大学	third military medical university
+52158045	中国农业大学	china agricultural university
+28813325	中国民用航空学院	civil aviation university of china
+59028903	中国海洋大学	ocean university of china
+204553293	中国石油大学（华东）	china university of petroleum
+25757504	中国矿业大学	china university of mining and technology
+126520041	中国科学技术大学	university of science and technology of china
+19820366	中国科学院上海光学精密机械研究所	chinese academy of sciences
+19820366	中国科学院上海天文台	chinese academy of sciences
+19820366	中国科学院上海巴斯德研究所	chinese academy of sciences
+19820366	中国科学院上海应用物理研究所	chinese academy of sciences
+19820366	中国科学院上海微系统与信息技术研究所	chinese academy of sciences
+19820366	中国科学院上海技术物理研究所	chinese academy of sciences
+19820366	中国科学院上海有机化学研究所	chinese academy of sciences
+19820366	中国科学院上海植物生理研究所	chinese academy of sciences
+19820366	中国科学院上海生命科学研究中心	chinese academy of sciences
+19820366	中国科学院上海生命科学研究院	chinese academy of sciences
+19820366	中国科学院上海生命科学研究院生物化学与细胞生物学研究所	chinese academy of sciences
+19820366	中国科学院上海生物化学研究所	chinese academy of sciences
+19820366	中国科学院上海生物工程研究中心	chinese academy of sciences
+19820366	中国科学院上海硅酸盐研究所	chinese academy of sciences
+19820366	中国科学院上海细胞生物学研究所	chinese academy of sciences
+19820366	中国科学院上海药物研究所	chinese academy of sciences
+19820366	中国科学院东北地理与农业生态研究所	chinese academy of sciences
+19820366	中国科学院云南天文台	chinese academy of sciences
+19820366	中国科学院亚热带农业生态研究所	chinese academy of sciences
+19820366	中国科学院光电技术研究所	chinese academy of sciences
+19820366	中国科学院光电研究院	chinese academy of sciences
+19820366	中国科学院兰州化学物理研究所	chinese academy of sciences
+19820366	中国科学院力学研究所	chinese academy of sciences
+19820366	中国科学院动物研究所	chinese academy of sciences
+19820366	中国科学院化学研究所	chinese academy of sciences
+19820366	中国科学院化工冶金研究所	chinese academy of sciences
+19820366	中国科学院北京基因组研究所	chinese academy of sciences
+19820366	中国科学院北京天文台	chinese academy of sciences
+19820366	中国科学院半导体研究所	chinese academy of sciences
+19820366	中国科学院华南植物园	chinese academy of sciences
+19820366	中国科学院南京土壤研究所	chinese academy of sciences
+19820366	中国科学院南京地理与湖泊研究所	chinese academy of sciences
+19820366	中国科学院南京地质古生物研究所	chinese academy of sciences
+19820366	中国科学院南海海洋研究所	chinese academy of sciences
+19820366	中国科学院古脊椎动物与古人类研究所	chinese academy of sciences
+19820366	中国科学院合肥物质科学研究院	chinese academy of sciences
+19820366	中国科学院固体物理研究所	chinese academy of sciences
+19820366	中国科学院国家天文台	chinese academy of sciences
+19820366	中国科学院国家天文台中国	chinese academy of sciences
+19820366	中国科学院国家授时中心	chinese academy of sciences
+19820366	中国科学院地球化学研究所	chinese academy of sciences
+19820366	中国科学院地球物理研究所	chinese academy of sciences
+19820366	中国科学院地球环境研究所	chinese academy of sciences
+19820366	中国科学院地理科学与资源研究所	chinese academy of sciences
+19820366	中国科学院地质与地球物理研究所	chinese academy of sciences
+19820366	中国科学院地质研究所	chinese academy of sciences
+19820366	中国科学院声学研究所	chinese academy of sciences
+19820366	中国科学院大学	chinese academy of sciences
+19820366	中国科学院大气物理研究所	chinese academy of sciences
+19820366	中国科学院大连化学物理研究所	chinese academy of sciences
+19820366	中国科学院宁波材料技术与工程研究所	chinese academy of sciences
+19820366	中国科学院寒区旱区环境与工程研究所	chinese academy of sciences
+19820366	中国科学院山西煤炭化学研究所	chinese academy of sciences
+19820366	中国科学院广州地球化学研究所	chinese academy of sciences
+19820366	中国科学院广州生物医药与健康研究院	chinese academy of sciences
+19820366	中国科学院广州能源研究所	chinese academy of sciences
+19820366	中国科学院微生物研究所	chinese academy of sciences
+19820366	中国科学院微电子研究所	chinese academy of sciences
+19820366	中国科学院心理研究所	chinese academy of sciences
+19820366	中国科学院感光化学研究所	chinese academy of sciences
+19820366	中国科学院成都山地灾害与环境研究所	chinese academy of sciences
+19820366	中国科学院成都生物研究所	chinese academy of sciences
+19820366	中国科学院数学与系统科学研究院	chinese academy of sciences
+19820366	中国科学院新疆理化技术研究所	chinese academy of sciences
+19820366	中国科学院昆明动物研究所	chinese academy of sciences
+19820366	中国科学院昆明植物研究所	chinese academy of sciences
+19820366	中国科学院植物生理生态研究所	chinese academy of sciences
+19820366	中国科学院植物研究所	chinese academy of sciences
+19820366	中国科学院武汉岩土力学研究所	chinese academy of sciences
+19820366	中国科学院武汉物理与数学研究所	chinese academy of sciences
+19820366	中国科学院武汉病毒研究所	chinese academy of sciences
+19820366	中国科学院水利部成都山地灾害与环境研究所	chinese academy of sciences
+19820366	中国科学院水生生物研究所	chinese academy of sciences
+19820366	中国科学院沈阳应用生态研究所	chinese academy of sciences
+19820366	中国科学院沈阳自动化研究所	chinese academy of sciences
+19820366	中国科学院测量与地球物理研究所	chinese academy of sciences
+19820366	中国科学院海洋研究所	chinese academy of sciences
+19820366	中国科学院深圳先进技术研究院	chinese academy of sciences
+19820366	中国科学院物理研究所	chinese academy of sciences
+19820366	中国科学院理化技术研究所	chinese academy of sciences
+19820366	中国科学院理论物理研究所	chinese academy of sciences
+19820366	中国科学院生态环境研究中心	chinese academy of sciences
+19820366	中国科学院生物物理研究所	chinese academy of sciences
+19820366	中国科学院电子学研究所	chinese academy of sciences
+19820366	中国科学院电工研究所	chinese academy of sciences
+19820366	中国科学院研究生院	chinese academy of sciences
+19820366	中国科学院研究生院中国	chinese academy of sciences
+19820366	中国科学院神经科学研究所	chinese academy of sciences
+19820366	中国科学院福建物质结构研究所	chinese academy of sciences
+19820366	中国科学院科技政策与管理科学研究所	chinese academy of sciences
+19820366	中国科学院空间科学与应用研究中心	chinese academy of sciences
+19820366	中国科学院等离子体物理研究所	chinese academy of sciences
+19820366	中国科学院紫金山天文台	chinese academy of sciences
+19820366	中国科学院自动化研究所	chinese academy of sciences
+19820366	中国科学院苏州纳米技术与纳米仿生研究所	chinese academy of sciences
+19820366	中国科学院西双版纳热带植物园	chinese academy of sciences
+19820366	中国科学院西安光学精密机械研究所	chinese academy of sciences
+19820366	中国科学院计算技术研究所	chinese academy of sciences
+19820366	中国科学院软件研究所	chinese academy of sciences
+19820366	中国科学院过程工程研究所	chinese academy of sciences
+19820366	中国科学院近代物理研究所	chinese academy of sciences
+19820366	中国科学院遗传与发育生物学研究所	chinese academy of sciences
+19820366	中国科学院遗传与发育生物学研究所美国	chinese academy of sciences
+19820366	中国科学院遗传研究所	chinese academy of sciences
+19820366	中国科学院金属研究所	chinese academy of sciences
+19820366	中国科学院长春光学精密机械与物理研究所	chinese academy of sciences
+19820366	中国科学院长春应用化学研究所	chinese academy of sciences
+19820366	中国科学院青岛生物能源与过程研究所	chinese academy of sciences
+19820366	中国科学院青藏高原研究所	chinese academy of sciences
+19820366	中国科学院高能物理研究所	chinese academy of sciences
+189210763	云南大学	yunnan university
+76214153	兰州大学	lanzhou university
+21193070	北京交通大学	beijing jiaotong university
+75390827	北京化工大学	beijing university of chemical technology
+20231570	北京大学	peking university
+37796252	北京工业大学	beijing university of technology
+25254941	北京师范大学	beijing normal university
+115488153	北京应用物理与计算数学研究所	institute of applied physics and computational mathematics
+125839683	北京理工大学	beijing institute of technology
+92403157	北京科技大学	university of science and technology beijing
+82880672	北京航空航天大学	beihang university
+139759216	北京邮电大学	beijing university of posts and telecommunications
+66867065	华东师范大学	east china normal university
+143593769	华东理工大学	east china university of science and technology
+40963666	华中师范大学	central china normal university
+47720641	华中科技大学	huazhong university of science and technology
+119045251	华侨大学	huaqiao university
+153473198	华北电力大学	north china electric power university
+90610280	华南理工大学	south china university of technology
+119454577	南京农业大学	nanjing agricultural university
+83519826	南京医科大学	nanjing medical university
+881766915	南京大学	nanjing university
+36399199	南京理工大学	nanjing university of science and technology
+9842412	南京航空航天大学	nanjing university of aeronautics and astronautics
+58200834	南方医科大学	southern medical university
+141649914	南昌大学	nanchang university
+191208505	厦门大学	xiamen university
+194450716	吉林大学	jilin university
+116953780	同济大学	tongji university
+156144747	哈尔滨医科大学	harbin medical university
+204983213	哈尔滨工业大学	harbin institute of technology
+37574244	四川农业大学	sichuan agricultural university
+24185976	四川大学	sichuan university
+24943067	复旦大学	fudan university
+27357992	大连理工大学	dalian university of technology
+12411659	天津中医药大学	tianjin university of traditional chinese medicine
+5740404	天津医科大学	tianjin medical university
+162868743	天津大学	tianjin university
+9086337	太原理工大学	taiyuan university of technology
+154099455	山东大学	shandong university
+37987034	广州大学	guangzhou university
+31595395	成都理工大学	chengdu university of technology
+78978612	扬州大学	yangzhou university
+154093214	新疆医科大学	xinjiang medical university
+159948400	暨南大学	jinan university
+50760025	杭州电子科技大学	hangzhou dianzi university
+37461747	武汉大学	wuhan university
+196699116	武汉理工大学	wuhan university of technology
+32574673	汕头大学	shantou university
+111599522	江南大学	jiangnan university
+115592961	江苏大学	jiangsu university
+74837319	江西农业大学	jiangxi agricultural university
+111381250	河北医科大学	hebei medical university
+43337087	河北大学	hebei university
+94611258	河北师范大学	hebei normal university
+38877650	河南医科大学	zhengzhou university
+173899330	河南大学	henan university
+163340411	河海大学	hohai university
+76130692	浙江大学	zhejiang university
+55712492	浙江工业大学	zhejiang university of technology
+180726961	深圳大学	shenzhen university
+99065089	清华大学	tsinghua university
+146620803	温州大学	wenzhou university
+16609230	湖南大学	hunan university
+173759888	湖南师范大学	hunan normal university
+4610292	湘潭大学	xiangtan university
+39333907	燕山大学	yanshan university
+204553293	石油大学（华东）	china university of petroleum
+80947539	福州大学	fuzhou university
+61057504	福建农林大学	fujian agriculture and forestry university
+3923682	苏州大学	soochow university
+37802460	西北大学	northwest university
+17145004	西北工业大学	northwestern polytechnical university
+51622183	西北轻工业学院	shaanxi university of science and technology
+4800084	西南交通大学	southwest jiaotong university
+142108993	西南师范大学	southwest university
+204831749	西南财经大学	southwestern university of finance and economics
+87445476	西安交通大学	xi an jiaotong university
+148099405	西安建筑科技大学	xi an university of architecture and technology
+149594827	西安电子科技大学	xidian university
+38877650	郑州大学	zhengzhou university
+87780372	重庆医科大学	chongqing medical university
+158842170	重庆大学	chongqing university
+108688024	青岛大学	qingdao university
+143413998	青岛科技大学	qingdao university of science and technology
+183519381	首都医科大学附属北京口腔医院	capital medical university
+9224756 东北大学	northeastern university
+169689159   中国人民解放军信息工程大学	information engineering university
+9916479	中国人民解放军第四军医大学	the fourth military medical university
+65081225    中国地质大学（北京）	china university of geosciences, beijing
+65081225    中国地质大学（武汉）	china university of geosciences, wuhan
+96852419	首都师范大学	capital normal university
+204553293	石油大学（北京）	china university of petroleum, beijing
+205237279	南开大学	nankai university
+155328522	中山医科大学	sun yat sen university of medical sciences
+157773358	中山大学	sun yat sen university
+25757504	中国矿业大学	china university of mining and technology
+204553293	中国石油大学	china university of petroleum
+9224756	东北大学	northeastern university

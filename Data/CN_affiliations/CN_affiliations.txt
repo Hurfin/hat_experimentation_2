@@ -1,0 +1,864 @@
+CN	133731052	university of helsinki
+CN	137506752	north china university of science and technology
+CN	31595395	chengdu university of technology
+CN	146563203	beijing institute of foreign trade
+CN	195641462	china center for economic research
+CN	75900474	hubei university
+CN	156144747	harbin medical university
+CN	168879160	zhejiang university of science and technology
+CN	108676642	taiwan police college
+CN	47282705	china classification society
+CN	63616730	hong kong institute of education
+CN	56541667	btu international
+CN	1325577482	hunan mass media vocational technical college
+CN	66883779	weifang university
+CN	21741975	changshu institute of technology
+CN	140786321	tibet university
+CN	207528943	chengdu medical college
+CN	47689461	northeast forestry university
+CN	112423655	institute of environmental sciences
+CN	257545875	hunan university of humanities science and technology
+CN	1304576787	shanghai museum
+CN	141301092	china meteorological administration
+CN	94357780	zhongkai university of agriculture and engineering
+CN	1284762954	zhejiang a f university
+CN	161675122	cooperative institute for research in environmental sciences
+CN	170172562	guizhou university of finance and economics
+CN	21193070	beijing jiaotong university
+CN	890469752	ministry of industry and information technology of the people s republic of china
+CN	26359584	council of agriculture
+CN	317925220	woco group
+CN	196699116	wuhan university of technology
+CN	204553293	china university of petroleum
+CN	36152291	henan university of technology
+CN	166427055	xinjiang agricultural university
+CN	17721919	shanxi medical university
+CN	49420792	northwest university of politics and law
+CN	167830082	taiwan sugar corporation
+CN	105991555	jingdezhen ceramic institute
+CN	31683504	beijing forestry university
+CN	71178462	bmj group
+CN	142415962	beijing institute of education
+CN	37448385	chinese people s public security university
+CN	14116566	wuhan polytechnic university
+CN	120825670	yunnan normal university
+CN	154893126	guizhou normal university
+CN	92415913	taiwan power company
+CN	124156187	yang ming marine transport corporation
+CN	160354086	guangxi medical university
+CN	144999699	taiwan shoufu university
+CN	79731167	hainan medical university
+CN	1324288179	chinese ministry of transportation and communications
+CN	168719708	city university of hong kong
+CN	180662265	china mobile
+CN	230842804	national taiwan university of physical education and sport
+CN	153806059	shanghai business school
+CN	6507939	china unicom
+CN	179814638	south university of science and technology of china
+CN	83776822	shandong institute of business and technology
+CN	881766915	nanjing university
+CN	75867142	xiamen university of technology
+CN	132586189	zhongyuan university of technology
+CN	75390827	beijing university of chemical technology
+CN	52333912	qinghai medical college
+CN	1325714086	hong kong department of health
+CN	1333167005	north china pharmaceutical group corp
+CN	114150738	fu jen catholic university
+CN	149735164	hengyang normal university
+CN	76569877	southeast university
+CN	41317344	jiangxi science and technology normal university
+CN	179324530	jilin university of finance and economics
+CN	22562322	institute for environment and sustainability
+CN	90610280	south china university of technology
+CN	16609230	hunan university
+CN	32399674	shenyang normal university
+CN	154341788	tangshan college
+CN	10660446	kunming university of science and technology
+CN	2821417	institute of biological environmental and rural sciences
+CN	61388159	shanghai university of technology
+CN	85533874	shanghai finance university
+CN	147618694	a o smith water products company
+CN	2898894	liaoning university of technology
+CN	59028903	ocean university of china
+CN	110640572	guiyang college of traditional chinese medicine
+CN	80626142	xinxiang medical university
+CN	135836153	shenyang agricultural university
+CN	1305322584	queensland environmental protection agency
+CN	206324368	shaoyang university
+CN	124335351	people s bank of china
+CN	85430964	liaoning medical university
+CN	31847773	zhejiang ocean university
+CN	186272606	guangdong university of foreign studies
+CN	184693016	china medical university
+CN	1285819877	virginia tech college of natural resources and environment
+CN	202028630	changchun normal university
+CN	10496686	shangrao normal university
+CN	167027274	nanjing forestry university
+CN	183067930	shanghai jiao tong university
+CN	331295397	beijingwest industries
+CN	223893228	china food and drug administration
+CN	48780066	shenyang university of chemical technology
+CN	53592917	jiangxi normal university
+CN	116265982	qinghai university
+CN	153426935	institute for tourism studies macao
+CN	130480701	dongbei university of finance and economics
+CN	118803816	liaoning university
+CN	146773158	qingdao agricultural university
+CN	94047373	xinjiang university of finance and economics
+CN	62853816	beijing university of civil engineering and architecture
+CN	1311063273	hong kong examinations and assessment authority
+CN	68986083	northwest normal university
+CN	73669364	china development bank
+CN	70908550	anhui polytechnic university
+CN	72212903	harbin veterinary research institute
+CN	1309307032	anshan iron steel group corporation
+CN	16365422	hefei university of technology
+CN	2250653659	tencent
+CN	35357665	china university of technology
+CN	58995867	civil aviation flight university of china
+CN	59621563	institute of environmental medicine
+CN	40963666	central china normal university
+CN	108904480	shenyang institute of engineering
+CN	1342647459	ministry of science technology and environment
+CN	7761542	hebei polytechnic university
+CN	35447125	bp solar
+CN	158108717	china national offshore oil corporation
+CN	2250865144	tcl corporation
+CN	75955062	henan normal university
+CN	99835756	arco
+CN	46975222	yunnan university of traditional chinese medicine
+CN	92178344	anhui university of technology
+CN	1335489744	pan asia technical automotive center
+CN	196687026	institute of environmental science and research
+CN	74973139	carnegie mellon university
+CN	51622183	shaanxi university of science and technology
+CN	202262619	united nations environment programme
+CN	33523713	civil aeronautics administration
+CN	207158490	tum institute for advanced study
+CN	1334884943	yanbian university of science and technology
+CN	113389987	handan college
+CN	78988378	renmin university of china
+CN	157146768	sydney institute of language and commerce
+CN	157183634	shanghai university of science and technology
+CN	217203536	hankou university
+CN	75746372	zte
+CN	151013683	binzhou university
+CN	898250095	industrial and commercial bank of china
+CN	196038209	hunan university of arts and science
+CN	109783122	department of sustainability environment water population and communities
+CN	184843921	hebei university of technology
+CN	96852419	capital normal university
+CN	159948400	jinan university
+CN	42097590	institute for european environmental policy
+CN	143868143	anhui university
+CN	146071755	kunming university
+CN	263208278	hazara university
+CN	136765683	tianjin university of technology
+CN	157771985	china national nuclear corporation
+CN	1315279114	zhejiang wanli university
+CN	98301712	baidu
+CN	152033890	hainan normal university
+CN	917184967	bank of china
+CN	176134282	guilin medical university
+CN	155328522	sun yat sen university of medical sciences
+CN	143578492	asia university
+CN	90090648	shijiazhuang railway institute
+CN	12283580	needham research institute
+CN	119203015	shandong university of technology
+CN	37574244	sichuan agricultural university
+CN	1285929390	hubei university of medicine
+CN	141962983	shanghai university of engineering sciences
+CN	193114190	chifeng university
+CN	170040867	global environment facility
+CN	185940356	soochow university
+CN	191969501	national taipei university of nursing and health science
+CN	184681353	anhui university of science and technology
+CN	862412009	central institute for correctional police
+CN	21642278	ningxia university
+CN	62800249	xingtai university
+CN	192578869	chengde medical college
+CN	39479358	hebei institute of architecture and civil engineering
+CN	107851509	chinese academy of tropical agricultural sciences
+CN	70827415	china earthquake networks center
+CN	53533536	shanxi college of traditional chinese medicine
+CN	63371133	chongqing jiaotong university
+CN	17747738	beijing university of chinese medicine
+CN	188390059	jinan military region
+CN	149137203	guiyang medical university
+CN	66867065	east china normal university
+CN	59483232	shandong university of finance and economics
+CN	37987034	guangzhou university
+CN	118810699	hangzhou university
+CN	154864474	national taiwan university of science and technology
+CN	10058456	dongfeng motor
+CN	5422934	shanxi datong university
+CN	100135526	beijing genomics institute
+CN	65196183	tatung university
+CN	98822032	university of shanghai
+CN	69356397	xi an jiaotong liverpool university
+CN	180726961	shenzhen university
+CN	168673124	tianjin urban construction institute
+CN	150229711	university of electronic science and technology of china
+CN	5343935	guilin university of electronic technology
+CN	1294817648	environment protection authority
+CN	130541836	beijing institute of petrochemical technology
+CN	174104030	taiyuan normal university
+CN	119868032	shanxi agricultural university
+CN	139024713	guangdong university of technology
+CN	155302661	united nations university international institute for software technology
+CN	901115335	banco nacional ultramarino
+CN	136591757	omnivision technologies
+CN	25254941	beijing normal university
+CN	32377083	yangtze normal university
+CN	1299457549	civil aviation administration of china
+CN	1305438192	gansu provincial museum
+CN	198091727	tianjin polytechnic university
+CN	1284637955	kerala state council for science technology and environment
+CN	142105451	technological and higher education institute of hong kong
+CN	1456306	north china university of technology
+CN	44675526	shanghai ocean university
+CN	91807558	national cheng kung university
+CN	271893122	national health and family planning commission
+CN	118612203	hunan police academy
+CN	37796252	beijing university of technology
+CN	1338866089	department of the environment water heritage and the arts
+CN	99364987	hunan college of finance and economics
+CN	202266959	environmental law institute
+CN	57963299	department of environment housing and community development
+CN	150264550	eni
+CN	9224756	northeastern university
+CN	170215575	national university of defense technology
+CN	890001880	american academy of environmental engineers and scientists
+CN	54900124	suez environnement
+CN	48620495	zhejiang medical university
+CN	25276648	nexteer automotive
+CN	194716290	china academy of space technology
+CN	114117164	university of science and technology liaoning
+CN	118783713	fujian university of traditional chinese medicine
+CN	32820368	guangdong institute of science and technology
+CN	72565114	luoyang institute of science and technology
+CN	905225518	shanghai university of international business and economics
+CN	187175081	shaanxi university of technology
+CN	132369690	tianjin university of science and technology
+CN	22716506	lanzhou university of technology
+CN	144581915	jishou university
+CN	1340143798	sequans
+CN	180585399	dalian institute of chemical physics
+CN	253932293	anhui university of chinese medicine
+CN	11406153	shanghai international studies university
+CN	15823474	linyi university
+CN	16733864	national taiwan university
+CN	146617529	hong kong applied science and technology research institute
+CN	159389169	ningbo university of technology
+CN	129708740	fujian medical university
+CN	114539943	zhejiang chinese medical university
+CN	181903023	xi an shiyou university
+CN	68348662	shih hsin university
+CN	150807315	guangxi university
+CN	29377299	neusoft institute of information
+CN	179060312	northeast dianli university
+CN	2251594505	taobao
+CN	189290911	chungshan institute of science and technology
+CN	197869895	anhui medical university
+CN	174442536	south central university for nationalities
+CN	25355098	chang an university
+CN	29299453	taiyuan heavy industry co ltd
+CN	182722699	shenzhen polytechnic
+CN	1336292793	office of environment and heritage
+CN	39774598	hefei university
+CN	63430487	shandong women s university
+CN	12912129	northeastern university
+CN	2753814022	china university of science and technology
+CN	169351748	bengbu medical college
+CN	1296604144	memorial hospital of south bend
+CN	143413998	qingdao university of science and technology
+CN	186691195	qingdao binhai university
+CN	34949971	university of jinan
+CN	126924076	chongqing normal university
+CN	113940042	shanghai university
+CN	25757504	china university of mining and technology
+CN	290007724	qinghai university for nationalities
+CN	916048824	hunan first normal university
+CN	41721100	north china coal medical university
+CN	49934816	hunan university of technology
+CN	105126617	zhejiang international studies university
+CN	350617331	shanghai conservatory of music
+CN	1293313711	chery
+CN	143593769	east china university of science and technology
+CN	121296143	hunan university of science and technology
+CN	110109458	tianjin university of commerce
+CN	27688046	hunan institute of engineering
+CN	90727586	zhejiang university of finance and economics
+CN	79223203	guangdong ocean university
+CN	111971639	qiqihar university
+CN	92172085	chunghwa telecom
+CN	82333064	china national school of administration
+CN	56934997	changsha university of science and technology
+CN	39454813	enzon pharmaceuticals inc
+CN	870392255	wuhan sports university
+CN	75689368	communication university of china
+CN	283535715	beijing national day school
+CN	27599042	xi an polytechnic university
+CN	12615008	united international college
+CN	1305868803	department of sustainability environment water population and communities
+CN	151727225	harbin engineering university
+CN	89652312	northwest a f university
+CN	10899854	jiangxi university of traditional chinese medicine
+CN	67636235	university of international relations
+CN	154093214	xinjiang medical university
+CN	149240348	jilin normal university
+CN	78675632	beijing information science technology university
+CN	131434179	nanjing university of chinese medicine
+CN	903994226	xuchang university
+CN	1288969090	chinese ministry of science and technology
+CN	4800084	southwest jiaotong university
+CN	21153639	langfang teachers college
+CN	13985625	east china jiaotong university
+CN	78974044	east china university of political science and law
+CN	1282599124	department of environment and conservation
+CN	194450716	jilin university
+CN	96323854	national yang ming university
+CN	187380120	agricultural bank of china
+CN	1331374319	national bureau of statistics of china
+CN	192868223	zhengzhou institute of aeronautical industry management
+CN	209549992	sanjiang university
+CN	200769079	hong kong university of science and technology
+CN	55712492	zhejiang university of technology
+CN	258401653	nanjing union theological seminary
+CN	41147446	anshan normal university
+CN	80432865	qiongzhou university
+CN	108160477	agricultural university of hebei
+CN	92582371	southern taiwan university of science and technology
+CN	108688024	qingdao university
+CN	176834541	guangdong medical college
+CN	94611258	hebei normal university
+CN	114655575	faw group
+CN	52158045	china agricultural university
+CN	28813325	civil aviation university of china
+CN	26080491	kunming medical university
+CN	300574207	supreme people s procuratorate
+CN	199305430	nantong university
+CN	133868755	fudan university shanghai medical college
+CN	96908189	xinjiang university
+CN	305754458	department of environment and primary industries
+CN	152399283	institute for advanced study of human sexuality
+CN	1337484998	hong kong information services department
+CN	1328587384	national council for science and the environment
+CN	11849452	tianjin agricultural university
+CN	4510145	jiangxi university of science and technology
+CN	139821560	genetics and ivf institute
+CN	151878197	pingdingshan university
+CN	1330161274	department of sustainability and environment
+CN	927504317	nanchang hangkong university
+CN	113992204	hebei university of economics and business
+CN	12393601	huaihua university
+CN	75920027	shaanxi university of chinese medicine
+CN	157507598	shenyang university of technology
+CN	52180223	hunan agricultural university
+CN	158809036	shenzhen institute of information technology
+CN	33824798	university of nanking
+CN	191208505	xiamen university
+CN	113348750	china motor corporation
+CN	27357992	dalian university of technology
+CN	164946172	hengshui university
+CN	64427410	hong kong shue yan university
+CN	53042283	shanghai aircraft design and research institute
+CN	96478251	hunan institute of technology
+CN	203896776	rizhao polytechnic
+CN	158842170	chongqing university
+CN	2592186	cheung kong graduate school of business
+CN	152238723	transgene sa
+CN	323792040	man diesel
+CN	30809798	shanghaitech university
+CN	31176605	environmental protection administration
+CN	165911609	changsha medical university
+CN	1296297310	aeras
+CN	119475436	zhejiang california international nanosystems institute
+CN	308837	suzhou university of science and technology
+CN	16518940	hong kong institute of vocational education
+CN	76130692	zhejiang university
+CN	74316835	vodafone
+CN	98227222	china national petroleum corporation
+CN	153374732	liaoning normal university
+CN	198645480	north china university of water conservancy and electric power
+CN	1338513174	xinhua news agency
+CN	184903800	environment agency
+CN	145831479	shandong foreign languages vocational college
+CN	235331625	jiangsu second normal university
+CN	114772536	software engineering institute
+CN	95265282	national population and family planning commission
+CN	92039509	guangzhou medical university
+CN	77199428	national taiwan sport university
+CN	176808543	liaoning technical university
+CN	145897649	minzu university of china
+CN	111753288	fujian normal university
+CN	134052481	harbin normal university
+CN	20231570	peking university
+CN	134531187	taiwan livestock research institute
+CN	68581759	china academy of launch vehicle technology
+CN	1322164681	h john heinz iii center for science economics and the environment
+CN	97009856	bohai university
+CN	58200834	southern medical university
+CN	38706770	guilin university of technology
+CN	129335695	shanghai academy of social sciences
+CN	94310126	shanxi teachers university
+CN	571856697	zenith oilfield technology
+CN	137056471	nanjing university of finance and economics
+CN	4750791	henan agricultural university
+CN	173899330	henan university
+CN	147139432	tianjin university of sport
+CN	124644866	northwest university for nationalities
+CN	191972202	amity university
+CN	50632499	chongqing university of technology
+CN	1292308902	hong kong monetary authority
+CN	130750295	xinyang normal university
+CN	1302611135	chinese ministry of public security
+CN	41198531	nanjing university of posts and telecommunications
+CN	152269853	qilu university of technology
+CN	15089104	china aerospace science and industry corporation
+CN	90097614	central weather bureau
+CN	125839683	beijing institute of technology
+CN	79431787	tongji medical college
+CN	99065089	tsinghua university
+CN	21363455	inspur
+CN	2738184634	pizzorno environnement
+CN	130507441	central bank of the republic of china taiwan
+CN	115873059	china international capital corp
+CN	204289627	huaibei coal industry teachers college
+CN	149594827	xidian university
+CN	10535382	chongqing university of posts and telecommunications
+CN	152031979	nanjing normal university
+CN	14992734	hunan university of traditional chinese medicine
+CN	112097100	argos
+CN	1793135	yanbian university
+CN	80947539	fuzhou university
+CN	88830068	shaanxi normal university
+CN	163698344	entegris
+CN	7350606	dalian jiaotong university
+CN	204710742	ministry of environmental protection of the people s republic of china
+CN	48381559	hebei normal university of science and technology
+CN	25846049	national tsing hua university
+CN	116874576	china oilfield services
+CN	164421362	asahi kasei
+CN	928283767	china institutes of contemporary international relations
+CN	121691239	beihua university
+CN	875511016	environ
+CN	181679659	shanghai university of finance and economics
+CN	44445938	shandong jianzhu university 灞辨澅寤虹瘔澶у
+CN	166846921	liaoning university of petroleum and chemical technology
+CN	1288675226	ontario ministry of the environment
+CN	205237279	nankai university
+CN	95761298	commission for environmental cooperation
+CN	170751988	shanxi university of finance and economics
+CN	117856277	neusoft
+CN	153512688	national taiwan ocean university
+CN	134161618	national taiwan normal university
+CN	178232147	guizhou university
+CN	179026463	beijing technology and business university
+CN	183570559	national chiayi university
+CN	39521962	hunan city university
+CN	27912750	wroclaw university of environmental and life sciences
+CN	146620803	wenzhou university
+CN	9356336	zhangzhou normal university
+CN	921716337	northeast petroleum university
+CN	1292390485	environmental risk management authority
+CN	1281641450	communities for a better environment
+CN	45928872	alibaba group
+CN	87780372	chongqing medical university
+CN	59649739	jiangxi university of finance and economics
+CN	13175533	fuyang teachers college
+CN	157357266	ningbo institute of technology zhejiang university
+CN	190242452	guangdong pharmaceutical university
+CN	177933477	second military medical university
+CN	83714178	shenyang jianzhu university
+CN	1300757298	heilongjiang university of science and technology
+CN	65065105	national communications commission
+CN	165859042	huaibei normal university
+CN	106994412	sinopec
+CN	41208885	harbin university of commerce
+CN	161716053	china pharmaceutical university
+CN	35320396	the family planning association of hong kong
+CN	1327237609	chinese ministry of education
+CN	38756568	xinyang agricultural college
+CN	74837319	jiangxi agricultural university
+CN	16295237	gansu agricultural university
+CN	24201400	chengdu university of information technology
+CN	24679375	taiwan institute of economic research
+CN	43922553	wuhan university of science and technology
+CN	1099802	shenyang medical college
+CN	260153005	kspg automotive ag
+CN	132210918	north china institute of science and technology
+CN	18489884	kunming institute of zoology
+CN	3923682	soochow university
+CN	102345215	xihua university
+CN	146613903	shanghai lixin university of commerce
+CN	187319281	nanchang institute of aeronautical technology
+CN	180632629	xi an international studies university
+CN	231293419	china academy of art
+CN	177388780	xuzhou medical college
+CN	92403157	university of science and technology beijing
+CN	183519381	capital medical university
+CN	46529539	chinese academy of fishery sciences
+CN	1336994424	pennsylvania department of environmental protection
+CN	117421001	china women s university
+CN	6645349	southwest university for nationalities
+CN	59251785	cnooc limited
+CN	129929221	environmental quality management
+CN	64449678	putian university
+CN	191331528	calsonic kansei
+CN	141568987	hong kong baptist university
+CN	204831749	southwestern university of finance and economics
+CN	134841294	binzhou medical college
+CN	107470533	tamkang university
+CN	5740404	tianjin medical university
+CN	9916479	fourth military medical university
+CN	37461747	wuhan university
+CN	1327533815	chinese ministry of economic affairs
+CN	1332353952	department of planning and environment
+CN	119273862	central south university forestry and technology
+CN	1322227051	li ka shing faculty of medicine university of hong kong
+CN	128298796	china merchants bank
+CN	129138385	china criminal police college
+CN	43313876	dalian maritime university
+CN	106645853	changchun university of science and technology
+CN	147230869	china shipbuilding industry corporation
+CN	49496784	beijing city university
+CN	109173049	beijing foreign studies university
+CN	141649914	nanchang university
+CN	204823248	huazhong agricultural university
+CN	87445476	xi an jiaotong university
+CN	168337820	chongqing university of science and technology
+CN	169019527	quanzhou normal university
+CN	137867983	central university of finance and economics
+CN	16590763	national quemoy university
+CN	205016115	hubei university of chinese medicine
+CN	20616075	qinghai normal university
+CN	193621155	universitas terbuka
+CN	20696738	wuppertal institute for climate environment and energy
+CN	201459984	guangdong university of business studies
+CN	866251918	continental motors inc
+CN	196934937	liaocheng university
+CN	63129356	qingdao technical college
+CN	882009436	central taiwan university of science and technology
+CN	137479271	helmholtz centre for environmental research ufz
+CN	134738993	shandong university of traditional chinese medicine
+CN	102398690	national natural science foundation of china
+CN	139759216	beijing university of posts and telecommunications
+CN	50180762	chongqing three gorges university
+CN	1282108819	zhejiang university press
+CN	169071405	hebei north university
+CN	153473198	north china electric power university
+CN	75357094	national yunlin university of science and technology
+CN	198357462	changsha university
+CN	141509744	joint graduate school of energy and environment
+CN	19820366	chinese academy of sciences
+CN	222723317	china association for science and technology
+CN	118285556	american college of occupational and environmental medicine
+CN	55538621	china jiliang university
+CN	163340411	hohai university
+CN	101479585	south china agricultural university
+CN	1296823611	national palace museum
+CN	4472751	anhui normal university
+CN	162930524	china institute of industrial relations
+CN	15062923	tianjin normal university
+CN	1292070578	science environmental health network
+CN	83519826	nanjing medical university
+CN	201952051	international institute for environment and development
+CN	29365675	national taiwan university of arts
+CN	909753970	chongqing communication institute
+CN	176432857	beijing wuzi university
+CN	96733725	shanghai maritime university
+CN	1334729051	xinjiang normal university
+CN	13591777	the university of nottingham ningbo china
+CN	34155123	hebei university of science and technology
+CN	51205905	kedge business school
+CN	161222507	open university of china
+CN	27841520	pacific marine environmental laboratory
+CN	874390226	china construction bank
+CN	134687103	nanjing university of technology
+CN	74794359	state oceanic administration
+CN	75059550	zhejiang gongshang university
+CN	63354593	sichuan normal university
+CN	44468530	qingdao technological university
+CN	157464120	national laboratory for computational fluid dynamics
+CN	198959115	changzhi medical college
+CN	1290900354	tufts medical center
+CN	142861451	yunnan nationalities university
+CN	1311218312	semiconductor manufacturing international corporation
+CN	61946498	primeasia university
+CN	117331123	weifang medical university
+CN	134626604	jiujiang university
+CN	29739308	guangxi normal university
+CN	46305995	taiyuan university of science and technology
+CN	105559250	centre for applied ethics
+CN	165127306	yellow river conservancy commission
+CN	110262843	yuncheng university
+CN	4610292	xiangtan university
+CN	45473482	china telecom
+CN	107982497	dalian ocean university
+CN	924313214	insurance services office
+CN	67530263	denso
+CN	150236237	tangshan teacher s college
+CN	24185976	sichuan university
+CN	12411659	tianjin university of traditional chinese medicine
+CN	2751430930	royal society of chemistry
+CN	49185572	yunnan university of finance and economics
+CN	115067436	changzhi college
+CN	135905480	shanghai second polytechnic university
+CN	319874951	sichuan international studies university
+CN	67001856	shanghai institute of technology
+CN	161346416	jimei university
+CN	102882674	beijing institute of clothing technology
+CN	115212828	beijing language and culture university
+CN	111381250	hebei medical university
+CN	9564693	eastern liaoning university
+CN	40689657	national formosa university
+CN	275542036	china metallurgical group corporation
+CN	183006215	shijiazhuang university
+CN	203061107	wuhan vocational college of software and engineering
+CN	115592961	jiangsu university
+CN	331567899	ministry of infrastructure and the environment
+CN	110440473	xi an university of science and technology
+CN	584858474	china central academy of fine arts
+CN	181877577	shanxi university
+CN	87710204	beijing sport university
+CN	151893264	jiamusi university
+CN	860388503	sias international university
+CN	181361081	longyan university
+CN	71459812	beijing international studies university
+CN	107668806	krasnow institute for advanced study
+CN	182386381	zunyi medical college
+CN	202334528	beijing electronic science and technology institute
+CN	1281635806	alberta environment
+CN	17442442	state grid corporation of china
+CN	95004497	hebei institute of physical education
+CN	28458939	hong kong community college
+CN	1296452710	hunan international economics university
+CN	46603895	varian medical systems
+CN	1340161457	stockholm environment institute
+CN	43566213	national taipei university of business
+CN	184983240	northeast normal university
+CN	169479621	development research center of the state council
+CN	890591949	yunnan baiyao group
+CN	10011244	huanggang normal university
+CN	43337087	hebei university
+CN	258800397	new york university shanghai
+CN	148128674	university of shanghai for science and technology
+CN	18570673	guangxi university of technology
+CN	116953780	tongji university
+CN	200946902	yichun university
+CN	9130074	shanghai volkswagen
+CN	20942203	hainan university
+CN	91656880	china medical university
+CN	116036724	shenyang ligong university
+CN	139660479	central south university
+CN	1328775524	zhejiang sci tech university
+CN	11838497	aviation industry corporation of china
+CN	216513404	guangdong university of science and technology
+CN	98834328	wuyi university
+CN	1311643757	comac
+CN	3908793	alpha mos
+CN	109935558	ningbo university
+CN	135714990	north university of china
+CN	121658445	kingston technology
+CN	899859998	qiqihar medical university
+CN	1327912371	chinese ministry of agriculture
+CN	142108993	southwest university
+CN	83791580	fujian university of technology
+CN	195019228	yunnan agricultural university
+CN	173570485	hong kong council of social service
+CN	40246663	chinese academy of engineering
+CN	173759888	hunan normal university
+CN	167274908	guangxi university for nationalities
+CN	1331244760	national museum of china
+CN	145283926	gac group
+CN	200845125	nanjing university of information science and technology
+CN	154099455	shandong university
+CN	46520130	chaohu university
+CN	23632641	shanghai university of electric power
+CN	1296241053	lincoln institute of land policy
+CN	77396741	hunan university of commerce
+CN	118574674	jiangsu normal university
+CN	142263535	university of nottingham
+CN	163151501	hangzhou normal university
+CN	291622464	jiangsu broadcasting corporation
+CN	90259746	capital university of economics and business
+CN	79995938	chinese people s armed police force academy
+CN	1308199089	harbin university
+CN	116121188	dolby laboratories
+CN	160354188	henan university of traditional chinese medicine
+CN	90149893	china earthquake administration
+CN	74525822	hubei university of technology
+CN	91125648	wuhan institute of technology
+CN	114963175	china mobile research institute
+CN	191996457	dalian medical university
+CN	184490438	chinese center for disease control and prevention
+CN	106079672	hebei university of engineering
+CN	211433327	ministry of land and resources of the people s republic of china
+CN	177725633	the chinese university of hong kong
+CN	182185646	environmental protection agency
+CN	61057504	fujian agriculture and forestry university
+CN	148366613	national chiao tung university
+CN	14894300	foshan university
+CN	18925743	shanghai university of sport
+CN	31590910	jianghan university
+CN	70881427	planar systems
+CN	126520041	university of science and technology of china
+CN	105086349	north sichuan medical college
+CN	76214153	lanzhou university
+CN	14140830	shih chien university
+CN	98202331	guangzhou higher education mega center
+CN	217562977	ministry of housing physical planning and environment
+CN	188935350	anhui university of finance and economics
+CN	47948057	kunming metallurgy college
+CN	162868743	tianjin university
+CN	100188998	harbin university of science and technology
+CN	80143920	shandong university of science and technology
+CN	160391749	jiaying university
+CN	183816158	zhaoqing university
+CN	192327786	heilongjiang university of chinese medicine
+CN	1286502909	ministry for the environment
+CN	1294606314	beijing tongren hospital
+CN	119045251	huaqiao university
+CN	1312857945	natural resources defense council
+CN	125608817	korea institute for advanced study
+CN	1301653859	nlight
+CN	9842412	nanjing university of aeronautics and astronautics
+CN	74593823	hebei finance university
+CN	181326427	donghua university
+CN	25399270	southwest forestry university
+CN	192209268	shaoxing university
+CN	74872605	china southern power grid company
+CN	32246829	guangdong institute of education
+CN	7726996	henan university of finance and economics
+CN	43207982	veolia environnement
+CN	63536330	st antony s college
+CN	22265921	national central university
+CN	16351329	china west normal university
+CN	189772984	tzu chi university
+CN	202126657	qufu normal university
+CN	133270356	tianjin university of technology and education
+CN	150614354	center of mathematical sciences zhejiang university
+CN	55022517	heilongjiang university
+CN	1280959780	rocky mountain institute
+CN	24407930	hunan university of science and engineering
+CN	126515640	zhejiang university city college
+CN	87354575	national chengchi university
+CN	103775301	petrochina
+CN	898024873	intevac
+CN	184650408	sany
+CN	51185872	jining medical university
+CN	65081225	china university of geosciences
+CN	1320709730	hong kong environmental protection department
+CN	23171815	zhengzhou university of light industry
+CN	38877650	zhengzhou university
+CN	51296178	china center of advanced science and technology
+CN	236156700	shengda economics trade and management college of zhengzhou
+CN	889458895	university of hong kong
+CN	141103825	nanchang institute of technology
+CN	19807155	shanghai academy of spaceflight technology
+CN	47720641	huazhong university of science and technology
+CN	69015056	radcliffe institute for advanced study
+CN	1334775333	chinese ministry of health
+CN	24943067	fudan university
+CN	154833797	zhanjiang normal university
+CN	37802460	northwest university
+CN	1332767359	aerospace industrial development corporation
+CN	82760581	taizhou university
+CN	1313079697	southwest university of political science law
+CN	354108	minjiang university
+CN	869018218	saic motor
+CN	8679417	open university of hong kong
+CN	177739611	yangtze university
+CN	177955009	china university of political science and law
+CN	167383011	henan university of science and technology
+CN	930026050	china steel
+CN	1286341389	chengdu neusoft university
+CN	82880672	beihang university
+CN	92092256	huanghe science and technology college
+CN	17523332	hong kong productivity council
+CN	125904092	shenyang aerospace university
+CN	114234892	beijing union university
+CN	141816643	natural environment research council
+CN	64852412	sichuan university of science and engineering
+CN	61565387	dalian nationalities university
+CN	89199228	syngenta
+CN	206404770	institute of insect sciences zhejiang university
+CN	152333232	national institute of parasitic diseases
+CN	19132802	department of environmental affairs and tourism
+CN	117532281	guangzhou university of chinese medicine
+CN	32574673	shantou university
+CN	36399199	nanjing university of science and technology
+CN	119454577	nanjing agricultural university
+CN	21945476	shanghai normal university
+CN	9086337	taiyuan university of technology
+CN	70542479	southwest agricultural university
+CN	78978612	yangzhou university
+CN	136324864	polar research institute of china
+CN	193524592	tianjin university of finance and economics
+CN	14243506	hong kong polytechnic university
+CN	133726777	yankuang group
+CN	112683239	shanghai university of political science and law
+CN	89381930	shangqiu normal university
+CN	118987531	anhui jianzhu university
+CN	99613584	national taipei university
+CN	21234642	zhejiang university of media and communications zumc
+CN	1308158557	hong kong marine department
+CN	42852656	shenyang university
+CN	204983213	harbin institute of technology
+CN	64175962	china europe international business school
+CN	127591826	university of dayton
+CN	1298723799	environmental defense fund
+CN	91935597	university of south china
+CN	182707071	ludong university
+CN	18452120	yantai university
+CN	1311099166	academia sinica institute of astronomy and astrophysics
+CN	46482218	anqing teachers college
+CN	145581781	chongqing technology and business university
+CN	161350542	china three gorges university
+CN	111599522	jiangnan university
+CN	103890011	shenyang pharmaceutical university
+CN	148099405	xi an university of architecture and technology
+CN	160674187	china three gorges corporation
+CN	50760025	hangzhou dianzi university
+CN	114218197	chinese academy of social sciences
+CN	17145004	northwestern polytechnical university
+CN	52604927	logistical engineering university of pla
+CN	95946905	shijiazhuang university of economics
+CN	160570740	beijing institute of machinery
+CN	1343331711	shenyang
+CN	200296433	peking union medical college
+CN	189210763	yunnan university
+CN	1308686765	national center for science education
+CN	187400657	south china normal university
+CN	1328695353	water environment federation
+CN	1287240670	food and environment research agency
+CN	158934434	zhongnan university of economics and law
+CN	163732180	guangxi university of finance and economics
+CN	1301248563	department of environment and natural resources
+CN	100286613	hunan institute of science and technology
+CN	69759363	arava institute for environmental studies
+CN	195846302	china foreign affairs university
+CN	1304023955	ankang university
+CN	14748160	jinggangshan university
+CN	201532990	tianjin foreign studies university
+CN	124841900	xuzhou institute of technology
+CN	13245227	jac motors
+CN	135237710	zhejiang normal university
+CN	1324363362	national development and reform commission
+CN	167751958	institute of chemical technology
+CN	28006308	shandong normal university
+CN	142974352	national sun yat sen university
+CN	1324840837	hewlett packard
+CN	140221134	anhui agricultural university
+CN	39333907	yanshan university
+CN	48447730	great lakes environmental research laboratory
+CN	13850615	kunming institute of botany
+CN	100357981	wannan medical college
+CN	74485261	shandong agricultural university
+CN	59412607	lg display
+CN	157773358	sun yat sen university
+CN	87318903	hunan women s university
+CN	146279334	aluminum corporation of china limited
+CN	84560040	european environment agency
+CN	186847079	taiyo yuden

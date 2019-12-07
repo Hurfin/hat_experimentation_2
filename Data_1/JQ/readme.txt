@@ -1,0 +1,5 @@
+filtered_JQ_affiliationID_ ...
+为过滤掉2012以后获奖的人的数据
+
+
+为过滤掉minPaperYear晚于awardYear的数据

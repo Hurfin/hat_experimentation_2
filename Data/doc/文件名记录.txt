@@ -1,0 +1,27 @@
+
+2_affiliationID_authorEnglishNameSorted_minYear_awardYear_academicAge(academicAge5_25).txt
+存储的是获奖时，学术年龄academicAge在5-25年之间的信息。（affID、name、first paper year、award year、academic age）
+
+2_affiliationID_authorEnglishNameSorted_minYear_awardYear_academicAge(age_lower5_upper25).txt
+格式同上，存储的为学术年龄大于25或者小于5的。
+
+"E:\pythonCode\RJ_experimentation_1\Data\result\experment1_result\affiliationID_sortedName_k1_b1_k2_b2_paperCntPerYear(Before5ANDafter5).txt"
+记录了experiment1中的杰青的获奖前五年到后五年的每年的论文数量，以及用最小二乘法，分段拟合的 k、b 值。（k1 b1为获奖前）
+
+由于MAG数据2019、2018年份的论文数据不全，所以前面的
+E:\pythonCode\RJ_experimentation_1\Data\result\experment1_result\affiliationID_sortedName_k1_b1_k2_b2_aveCitationCntPerYear(before5ANDafter5).txt
+E:\pythonCode\RJ_experimentation_1\Data\result\experment1_result\affiliationID_sortedName_k1_b1_k2_b2_h-IndexPerYear(before5ANDafter5).txt
+E:\pythonCode\RJ_experimentation_1\Data\result\experment1_result\affiliationID_sortedName_k1_b1_k2_b2_paperCntPerYear(Before5ANDafter5).txt
+最后做图时需要把2014、2015年获奖的学者筛除掉
+
+
+
+r'E:\FengXu\result\compareGroupData\paperID_authorID_affiliationID_paperYear(Co).txt'
+
+这里的paper id都是杰青的论文，也就是说这一部分是杰青跟合作者共同发表的论文数据中的子集（合作者的数据）
+
+E:\pythonCode\RJ_experimentation_1\Data\compareGroupData\paperID_authorID_affiliationID_paperYear(JQ_Co).txt
+这个跟上面相同，只不过包含了杰青的数据
+
+r"E:\FengXu\result\TMP\paperID_authorID_affiliationID_paperYear(coPaperALL).txt"
+杰青合作者的全部论文信息

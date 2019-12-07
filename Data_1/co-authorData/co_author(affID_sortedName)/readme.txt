@@ -1,0 +1,2 @@
+E:\pythonCode\RJ_experimentation_1\Data_1\co-authorData\co_author(affID_sortedName)\fxID_affID_sortedName_coAuthorID(drop_multi_CoAuthorID).txt
+这个是把affID, sortedName相同的和 authorID相同的视为同一个作者之后,加上fxID编号之后的数据
